@@ -1,0 +1,97 @@
+.masthead {
+
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%),
+    url("../img/head-bg.jpg");
+    
+}
+.masthead h1 {
+    color: rgb(15, 21, 43);
+}
+
+.masthead h3{
+    color: rgb(15, 21, 43);
+}
+
+.btn-primary {
+    background-color: rgba(15, 21, 43, 0.5) !important;
+    border-color: rgba(15, 21, 43, 0.5) !important;
+    border:0;
+    color: rgb(233, 218, 190) !important; }
+    .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+      background-color: rgb(15, 21, 43) !important;
+      border-color: rgb(15, 21, 43) !important; }
+
+.content-section h2 {
+    color: rgb(242, 215, 180) !important; 
+}
+
+#about h2 {
+    color: rgb(15, 21, 43) !important;
+    font-size: 3rem;
+}
+
+#about p{
+    font-size: 1.5rem;
+}
+
+#services h2 {
+    color: rgb(242, 215, 180) !important; 
+    font-size: 3rem !important;
+}
+
+.content-section a {
+    color: rgba(15, 21, 43, 0.5);
+}
+
+.btn-dark {
+    background-color: rgba(15, 21, 43, 0.7) !important;
+    border-color: rgba(15, 21, 43, 0.7) !important;
+    border:0;
+    color: rgb(233, 218, 190) !important; 
+    font-size: 1rem;}
+    .btn-dark:hover, .btn-dark:focus, .btn-dark:active {
+      background-color: rgb(15, 21, 43) !important;
+      border-color: rgb(15, 21, 43) !important; }
+
+.content-section h3 {
+    color: rgb(212, 8, 69) !important;
+}
+
+.bg-primary {
+    background-color: rgb(15, 21, 43) !important; 
+}
+
+#sidebar-wrapper {
+    background-color: rgb(15, 21, 43) !important;
+}
+
+#portfolio img{
+    width: 700px;
+    height: 980px;
+}
+
+#portfolio h2{
+    color: rgb(15, 21, 43)  !important;
+}
+
+.portfolio-item:hover .caption {
+    background-color: rgba(15, 21, 43, 0.8);
+}
+
+/* .content-section.container.mb-4 {
+    color: rgb(233, 218, 190) !important;
+} */
+
+/* h2[mb-4] {
+    color: rgb(233, 218, 190) !important;
+    font-size: 3rem;
+} */
+
+.btn-xl {
+    background-color: rgba(212, 8, 69, 0.7) !important;
+    border:0;
+    color: rgb(233, 218, 190) !important;
+    font-size: 1.5rem; }
+    .btn-xl:hover, .btn-xl:focus, .btn-xl:active {
+      background-color: rgb(212, 8, 69) !important;
+      border-color: rgb(212, 8, 69) !important; }
